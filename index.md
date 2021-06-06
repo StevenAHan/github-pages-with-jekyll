@@ -16,3 +16,13 @@ First of all, I enjoy playing the piano recreationally and even bought a small d
 ![My piano](/piano.jpg)
 
 2) Volunteering at Raritan Bay
+
+Furthermore, another fact about me is that I volunteered for Raritan Bay Medical Center in my junior year. I volunteered until I no longer could due to the onset of the COVID-19 pandemic.
+
+![Raritan Bay](/raritanbay.jpg)
+
+3) Volunteering at Huaxia Chinese School
+
+Finally, I also volunteered at Huaxia Chinese School located in East Brunswick. However, my volunteering activity had to also stop due to the onset of the COVID-19 pandemic.
+
+![The Chinese School located in Churchill](/churchill.jpg)
